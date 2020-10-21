@@ -6,6 +6,10 @@
 #' @name exonCounts
 #' @keywords datasets
 #' @format A data frame with 1000 rows and 7 variables
+#' @source Exoncounts from Pasilla package
+#' @references Huber W, Reyes A (2020). pasilla: Data package with 
+#' per-exon and per-gene read counts of RNA-seq samples of Pasilla
+#' knock-down by Brooks et al., Genome Research 2011 
 #' @examples
 #' data(exonCounts)
 "exonCounts"
