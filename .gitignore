@@ -41,7 +41,6 @@ inst/doc/
 # R Environment Variables
 .Renviron
 
-# user manual created based on Roxygen
-man/
+
 
 EBSEA.Rproj
