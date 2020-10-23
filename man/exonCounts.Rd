@@ -8,16 +8,13 @@
 A data frame with 1000 rows and 7 variables
 }
 \source{
-Exoncounts from Pasilla package
+Exoncounts from Pasilla package \url{https://bioconductor.org/packages/release/data/experiment/html/pasilla.html}
 }
 \usage{
 data("exonCounts")
 }
 \description{
 exonCounts consists of a subset of the exon counts from the pasilla dataset.
-}
-\examples{
-data(exonCounts)
 }
 \references{
 Huber W, Reyes A (2020). pasilla: Data package with 
